@@ -1,1 +1,3 @@
 # SpaceShooter
+Something went horribly wrong with some VCS operations, the master branch name was renamed to main, however my code editor and I both hadn't realised yet so I accidentally pushed to a seperate branch, afterwhich i deleted that branch and I tried to undo the commit so I could commit to main instead. Instead of reverting the commit, I accidentally reverted to NOTHING. I got my assets and scripts back but the hierarchy was all over the place so I'm moving this project over to SpaceShooter2.
+This remains as a graveyard to what could have been...
